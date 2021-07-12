@@ -191,13 +191,13 @@ STRINGS:
     btn_source: "📜 Source code"
     btn_help: "❔ Help"
     btn_lang: "🇺🇸 Language"
-    btn_channel: "🙋‍♀️ Daisy News"
-    btn_group: "👥 Daisy Support"
+    btn_channel: "🙋‍♀️ Eiva News"
+    btn_group: "👥 Eiva Support"
     btn_group_help: "Click me for help!"
     back: "🏃‍♂️ Back"
 
     # /help
-    help_header: "Hi Boss! I'm <b>Daisy</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
+    help_header: "Hi Boss! I'm <b>Eiva</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
     click_btn: Click here
 
   disable:
